@@ -1,11 +1,17 @@
 export const portfolioData = {
-  name: "B. Naga Prasanna",
+  name: " B.Naga Prasanna",
   title: "Marketing Professional",
-  tagline: "Data-Driven Marketing Strategist | Agribusiness Specialist",
+  tagline: "Data driven Marketing Strategist | Digital Marketing Specialist",
 
-  about: {
-    description: "A results-driven marketing professional with a strong foundation in market research, digital marketing, and data-driven decision-making, currently pursuing a PGDM in Agribusiness Management and Marketing from the International Institute of Business Studies. With hands-on experience across FMCG and agri-tech domains, I specialize in translating market insights into actionable strategies that enhance campaign performance, customer engagement, and business growth. My work reflects a deep understanding of consumer behavior, competitor analysis, and performance marketing frameworks. I bring a unique blend of analytical thinking and creative execution—ranging from SEO audits and paid campaign structuring to visual content creation and platform management. Proficient in tools like Google Analytics, Meta Ads, Semrush, and Power BI, I focus on optimizing marketing funnels and improving ROI through continuous experimentation and data analysis. Driven by curiosity and adaptability, I thrive in collaborative environments and aim to build impactful marketing solutions that align with business goals while delivering measurable results."
-  },
+about: {
+  description: `I'm Naga Prasanna, currently pursuing a PGDM in Agribusiness Management & Marketing at the International Institute of Business Study, Bengaluru.
+
+I’m deeply passionate about digital marketing—crafting impactful campaigns, understanding consumer behavior, and driving brand growth through data-driven strategies.
+
+My experience includes SEO audits, structuring Google Ads campaigns, analyzing multi-outlet SKU performance, and developing Meta campaign strategies. I thrive at the intersection of creativity and analytics.
+
+I believe great marketing begins with empathy for the consumer and ends with measurable outcomes, and I continuously strive to strengthen both.`
+},
 
   experience: [
     {
@@ -20,19 +26,6 @@ export const portfolioData = {
         "Delivered actionable insights by analyzing competitor pricing trends and promotional strategies, enabling faster and more accurate decision-making.",
         "Collaborated with marketing, sales, and operations teams to ensure 95% on-time execution of digital campaigns across outlets.",
         "Analyzed weekly sales data for 10+ outlets, identifying underperforming SKUs and recommending product positioning improvements."
-      ]
-    },
-    {
-      id: 2,
-      role: "Hydroponics & Operations Intern",
-      company: "Infinity Green Farms",
-      period: "March 2024 – July 2024",
-      achievements: [
-        "Managed hydroponic systems by monitoring and adjusting pH and EC levels, reducing nutrient imbalance issues by 20%.",
-        "Led daily production activities including seedling care, crop maintenance, and harvesting, improving yield consistency by 15%.",
-        "Conducted quality checks and optimized post-harvest processes, reducing wastage by 10%.",
-        "Supported HR and onboarding operations, contributing to 2+ onboarding programs for 10+ hires, including performance tracking and feedback cycles.",
-        "Assisted in sales operations, including packaging, pricing, and selling produce, driving 12–18% weekly sales growth."
       ]
     }
   ],

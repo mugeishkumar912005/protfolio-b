@@ -44,7 +44,7 @@ export const About = () => {
                 </div>
               </div>
             </div>
-
+{/* 
             <div className="bg-gradient-to-br from-teal-50 to-emerald-50 p-6 rounded-2xl border border-teal-100 transform hover:scale-105 transition-transform duration-300">
               <div className="flex items-start gap-4">
                 <div className="bg-teal-500 p-3 rounded-xl">
@@ -55,7 +55,7 @@ export const About = () => {
                   <p className="text-gray-700">FMCG & Agri-tech domains with emphasis on ROI optimization</p>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

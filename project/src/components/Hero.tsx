@@ -6,7 +6,7 @@ import prof from './WhatsApp_Image_2026-03-28_at_9.44.57_AM-removebg-preview (1)
 export const Hero = () => {
   const { displayedText: name } = useTypingEffect("B. Naga Prasanna", 80, 500);
   const { displayedText: tagline, isComplete } = useTypingEffect(
-    "Data-Driven Marketing Strategist | Agribusiness Specialist",
+    " Data driven Marketing Strategist | Digital Marketing Specialist",
     50,
     2500
   );
