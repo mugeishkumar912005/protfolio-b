@@ -4,13 +4,8 @@ export const portfolioData = {
   tagline: "Data driven Marketing Strategist | Digital Marketing Specialist",
 
 about: {
-  description: `I'm Naga Prasanna, currently pursuing a PGDM in Agribusiness Management & Marketing at the International Institute of Business Study, Bengaluru.
-
-I’m deeply passionate about digital marketing—crafting impactful campaigns, understanding consumer behavior, and driving brand growth through data-driven strategies.
-
-My experience includes SEO audits, structuring Google Ads campaigns, analyzing multi-outlet SKU performance, and developing Meta campaign strategies. I thrive at the intersection of creativity and analytics.
-
-I believe great marketing begins with empathy for the consumer and ends with measurable outcomes, and I continuously strive to strengthen both.`
+  description: `I'm Naga Prasanna, a PGDM graduate in Marketing from the International Institute of Business Study, Bengaluru, with a passion for digital marketing and data-driven growth. I have hands-on experience in Google Ads, Meta Ads, LinkedIn Ads, SEO, social media,
+   email and WhatsApp marketing, GA4, and Zoho CRM. I enjoy creating impactful campaigns, analyzing consumer behavior, and optimizing marketing strategies to drive measurable business results while continuously learning emerging marketing trends.`
 },
 
   experience: [
@@ -26,6 +21,20 @@ I believe great marketing begins with empathy for the consumer and ends with mea
         "Delivered actionable insights by analyzing competitor pricing trends and promotional strategies, enabling faster and more accurate decision-making.",
         "Collaborated with marketing, sales, and operations teams to ensure 95% on-time execution of digital campaigns across outlets.",
         "Analyzed weekly sales data for 10+ outlets, identifying underperforming SKUs and recommending product positioning improvements."
+      ]
+    },
+    {
+      id: 2,
+      role: "Digital Growth Intern",
+      company: "PRODOC AI",
+      period: "April 2026 – Present",
+      achievements: [
+        "Assisted in planning, launching, and optimizing Google Ads, Meta Ads, and LinkedIn Ads campaigns to support lead generation and customer acquisition.",
+        "Created 50+ marketing assets, including social media posts, ad creatives, ad copy, LinkedIn content, blogs, and promotional content across multiple digital platforms.",
+        "Executed WhatsApp marketing campaigns reaching over 500+ contacts, supporting customer engagement and lead nurturing.",
+        "Managed email marketing campaigns using Zoho CRM, including audience segmentation, scheduling, automation, and performance tracking.",
+        "Monitored campaign performance using KPIs such as CTR, CPC, CPL, Conversion Rate, ROAS, Impression Share, and Engagement Rate, providing insights for campaign optimization.",
+        "Tracked website traffic and user behavior using Google Analytics 4 (GA4) to identify optimization opportunities and improve campaign effectiveness."
       ]
     }
   ],
