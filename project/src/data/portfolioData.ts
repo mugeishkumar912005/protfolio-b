@@ -10,20 +10,6 @@ about: {
 
   experience: [
     {
-      id: 1,
-      role: "Market Research Intern",
-      company: "CPF (India) Pvt. Ltd. – Five Star Chicken",
-      period: "July 2025 – September 2025",
-      achievements: [
-        "Conducted comprehensive market research, benchmarking 40+ SKUs against competitors to identify pricing gaps, demand patterns, and promotional opportunities.",
-        "Strengthened digital marketing execution by designing offer banners, menu creatives, and outlet-level promotional visuals, improving campaign consistency.",
-        "Managed and updated digital platforms (pricing, offers, menu content), reducing communication errors by 25%.",
-        "Delivered actionable insights by analyzing competitor pricing trends and promotional strategies, enabling faster and more accurate decision-making.",
-        "Collaborated with marketing, sales, and operations teams to ensure 95% on-time execution of digital campaigns across outlets.",
-        "Analyzed weekly sales data for 10+ outlets, identifying underperforming SKUs and recommending product positioning improvements."
-      ]
-    },
-    {
       id: 2,
       role: "Digital Growth Intern",
       company: "PRODOC AI",
@@ -35,6 +21,20 @@ about: {
         "Managed email marketing campaigns using Zoho CRM, including audience segmentation, scheduling, automation, and performance tracking.",
         "Monitored campaign performance using KPIs such as CTR, CPC, CPL, Conversion Rate, ROAS, Impression Share, and Engagement Rate, providing insights for campaign optimization.",
         "Tracked website traffic and user behavior using Google Analytics 4 (GA4) to identify optimization opportunities and improve campaign effectiveness."
+      ]
+    },
+    {
+      id: 1,
+      role: "Market Research Intern",
+      company: "CPF (India) Pvt. Ltd. – Five Star Chicken",
+      period: "July 2025 – September 2025",
+      achievements: [
+        "Conducted comprehensive market research, benchmarking 40+ SKUs against competitors to identify pricing gaps, demand patterns, and promotional opportunities.",
+        "Strengthened digital marketing execution by designing offer banners, menu creatives, and outlet-level promotional visuals, improving campaign consistency.",
+        "Managed and updated digital platforms (pricing, offers, menu content), reducing communication errors by 25%.",
+        "Delivered actionable insights by analyzing competitor pricing trends and promotional strategies, enabling faster and more accurate decision-making.",
+        "Collaborated with marketing, sales, and operations teams to ensure 95% on-time execution of digital campaigns across outlets.",
+        "Analyzed weekly sales data for 10+ outlets, identifying underperforming SKUs and recommending product positioning improvements."
       ]
     }
   ],

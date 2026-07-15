@@ -27,7 +27,7 @@ export const About = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-gray-900 text-lg mb-2">Education</h3>
-                  <p className="text-gray-700">PGDM in Agribusiness Management and Marketing</p>
+                  <p className="text-gray-700">PGDM in Marketing Management</p>
                   <p className="text-sm text-gray-600 mt-1">International Institute of Business Studies</p>
                 </div>
               </div>
